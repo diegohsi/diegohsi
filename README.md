@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegohsi
-- 👀 I’m interested in *Java, Kotlin, Microservices, Kubernetes
+- 👀 I’m interested in *Java, Kotlin, Microservices, Kubernetes*
 - 🌱 I’m currently learning Kubernetes certification 
 
 <!---
