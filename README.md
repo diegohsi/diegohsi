@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @diegohsi
-- 👀 I’m interested in *Java, Kotlin, Microservices, Kubernetes*
-- 🌱 I’m currently learning Kubernetes certification 
+- 👋 Olá, eu sou o @diegohsi
+- 👀 Geralmente meus interesses estão em torno de *Java, Kotlin, Microservices, Kubernetes*
+- 🌱 Atualmente estou estudando para certificação em Kubernentes CKAD
+- 🚸 E você pode me encontrar no linkedin: https://www.linkedin.com/in/diegohsi/
 
 <!---
 diegohsi/diegohsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
